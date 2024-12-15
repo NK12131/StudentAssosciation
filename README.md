@@ -1,6 +1,6 @@
-## Student Association Database Management System Proposal
+# Student Association Database Management System Proposal
 
-# Business Description
+## Business Description
 
 The Student Association at Syracuse University is committed to enhancing the academic and professional
 development of its students. To support this mission, we aim to implement a robust and integrated
@@ -10,7 +10,7 @@ partnerships, opportunity listings, applications, event coordination, feedback c
 member roles, thereby facilitating better connectivity between students and potential employers while
 promoting a hands-on learning experience through various work opportunities.
 
-# Problem Statement
+## Problem Statement
 
 The lack of a centralized system to manage the multitude of internships, part-time jobs, and co-op
 opportunities presents a significant challenge to both students and employers. Students face difficulties
@@ -18,7 +18,7 @@ in finding relevant opportunities and managing applications, while employers str
 candidates. Furthermore, the current manual processes for event management, feedback collection, and
 association member coordination are inefficient and prone to errors.
 
-# Proposed Solution
+## Proposed Solution
 
 The implementation of a tailored DBMS will address these challenges by providing a centralized platform
 for all stakeholders. It will offer students easy access to opportunities, streamline the application process,
@@ -27,13 +27,13 @@ member responsibilities effectively. Employers will benefit from a streamlined p
 opportunities and access a wider pool of qualified candidates. The system will also offer robust reporting
 and analytics tools to track engagement and outcomes.
 
-# Users
+## Users
 
 Primary users of the system will include students, employers, association members, and system
 administrators. Each user group will have tailored access and functionalities to meet their specific needs
 and roles within the ecosystem.
 
-# System Components
+## System Components
 
 1. Student
    
@@ -100,7 +100,7 @@ Student ID (Foreign Key),
 Position,
 Responsibilities
 
-# Conclusion
+## Conclusion
 
 The proposed Student Association DBMS is a strategic investment in the academic and professional
 development of students at Syracuse University. By fostering a more connected, efficient, and supportive
